@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your cringes. -->
 
 - 👀 I am interested in becoming a quality assurance engineer.
 - 🌱 I am currently studying software testing on course Vadim Ksendzov  ksendzov.com
-- 🗺️ I explore tools as a beginner: DevTools, PostgreSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
+- 🗺️ I work with tools: DevTools, PostgreSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
 
 <div align="center">
 	<img alt="devtools" width="75px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
@@ -26,4 +26,4 @@ You can click the Preview link to take a look at your cringes. -->
 	<img alt="pycharm" width="75px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
 </div>
 
-- 📖 I learn English (LangExchange + English File course books)
+- 📖 I learn English
