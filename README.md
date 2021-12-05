@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your cringes. -->
 # 👋 Hi, my name is Lena!
 
 - 👀 I am interested in becoming a quality assurance engineer.
-- 🌱 I am currently studying the software testing theory with S.Kulikovs's [book](https://svyatoslav.biz/software_testing_book/).
+- 🌱 I am currently studying software testing on course Vadim Ksendzov 
 - 🗺️ I explore tools as a beginner: DevTools, PostgreSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
 
 <div align="center">
