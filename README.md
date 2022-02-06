@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your cringes. -->
 	<img alt="android-studio" width="75px" src="https://user-images.githubusercontent.com/89486551/143319797-01713acf-1cc6-49c9-ae92-d520d55cef17.png" />
 	<img alt="postman" width="75px" src="https://user-images.githubusercontent.com/89486551/143319803-99550e9f-bdde-4354-b38a-a3aa8ffc9a77.png" />
 	<img alt="pycharm" width="75px" src="https://user-images.githubusercontent.com/89486551/143319814-3645ca4a-c3cc-4958-aa5b-ff27b47d704c.png" />
-	<img alt="JMeter" width="75px" src="https://community.chocolatey.org/content/packageimages/jmeter.5.1.1.svg" />
+	<img alt="JMeter" width="75px" src="https://www.perfmatrix.com/wp-content/uploads/2020/07/JMeter-Logo.png" />
 </div>
 
 - 📖 I learn English
