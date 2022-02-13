@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your cringes. -->
 # 👋 Hi, my name is Lena!
 
 - 👀 I am quality assurance engineer.
-- 🗺️ I work with tools: DevTools, PostgreSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Python.
+- 🗺️ I work with tools: DevTools, PostgreSQL, GitBash, Charles, Fiddler, Android Studio, Postman, Pycharm, JMeter.
 
 <div align="center">
 	<img alt="devtools" width="75px" src="https://user-images.githubusercontent.com/89486551/143319750-2f729405-4b8a-4f73-8e16-b5c7780517fc.png" />
