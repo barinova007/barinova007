@@ -31,4 +31,4 @@ You can click the Preview link to take a look at your cringes. -->
 <h1 align="center">📫 How to reach me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00ff88)](https://t.me/barinova007)
-[![Gmail](https://img.shields.io/badge/-barinova007@ukr.net-000000?style=for-the-badge&logo=Gmail&logoColor=ff0000)](https://docs.google.com/document/d/1h3eojy8YsdcIJdG0sNNJzWo0kIczQVFS64_W5qgIOZg/edit)
+[![Gmail](https://img.shields.io/badge/-barinovalena007@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=ff0000)](https://docs.google.com/document/d/1h3eojy8YsdcIJdG0sNNJzWo0kIczQVFS64_W5qgIOZg/edit)
